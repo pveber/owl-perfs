@@ -1,0 +1,3 @@
+(executable
+  (name owl_perfs)
+  (libraries core core_bench lacaml owl))
